@@ -29,6 +29,13 @@ https://github.com/jmol721/molina-book-search
   ```
 
   ## Screenshots
+  ![](./screenshots/SS1.jpg)
+
+  ![](./screenshots/SS2.jpg)
+
+  ![](./screenshots/SS3.jpg)
+
+  ![](./screenshots/SS4.jpg)
 
   ## Questions
 
